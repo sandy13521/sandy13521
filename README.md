@@ -5,9 +5,6 @@
 
 Here are some ideas to get you started:
 -->
-<a href="https://twitter.com/sandy13521">
-  <img align="left" alt="Sandeep's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/sandeepns/">
   <img align="left" alt="Sandeep's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
