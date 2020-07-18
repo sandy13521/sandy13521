@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: I/he/him
 - ⚡ Fun fact: I am always curious.
 
-In my free time I like to play badminton(🏸), to watch formula1 (🏎), to watch movies (🎞️) and series (📺), to read newspaper (📰), to listen to music (🎵).
+In my free time I like to play badminton(🏸), to watch formula1 (🏎), movies (🎞️) and series (📺), to read newspaper (📰), to listen to music (🎵).
 
 ![Sandeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandy13521&hide=[%22issues%22,%22contribs%22]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
