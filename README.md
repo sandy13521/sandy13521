@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Sandeep N S
 
 <!--
 **sandy13521/sandy13521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,15 +16,13 @@ Here are some ideas to get you started:
 [![GitHub followers](https://img.shields.io/github/followers/sandy13521.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sandy13521?tab=followers)
 
 
-- 🔭 I’m currently working on a few android and nodejs projects
-- 🌱 I’m currently learning nodejs
+- 🔭 I’m currently working on a few android and nodejs projects.
+- 🌱 I’m currently learning nodejs.
 - 👯 I’m looking to collaborate on with anything which excites both of us.
-- 🤔 I’m looking for my softskills
-<!--
-- 💬 Ask me about my 
--->
-- 📫 How to reach me: nandavarmukund199@gmail.com 
+- 📫 How to reach me: nandavarmukund1999@gmail.com 
 - 😄 Pronouns: I/he/him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I am always curious.
+
+In my free time I like to play badminton(🏸), to watch formula1 (🏎), to watch movies (🎞️) and series (📺), to read newspaper (📰), to listen to music (🎵).
 
 ![Sandeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandy13521&hide=[%22issues%22,%22contribs%22]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
