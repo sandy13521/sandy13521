@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a few android and nodejs projects.
 - 🌱 I’m currently learning nodejs.
-- 👯 I’m looking to collaborate on with anything which excites both of us.
+- 👯 I’m looking to collaborate on anything which excites both of us.
 - 📫 How to reach me: nandavarmukund1999@gmail.com 
 - 😄 Pronouns: I/he/him
 - ⚡ Fun fact: I am always curious.
