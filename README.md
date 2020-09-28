@@ -5,14 +5,13 @@
 
 Here are some ideas to get you started:
 -->
-<a href="https://www.linkedin.com/in/sandeepns/">
+<!-- <a href="https://www.linkedin.com/in/sandeepns/">
   <img align="left" alt="Sandeep's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.hackerrank.com/nandavarmukund11">
   <img align="left" alt="Sandeep's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
-<br>
-
+-->
 - 🔭 I’m currently working on a few android and nodejs projects.
 - 🌱 I’m currently learning nodejs.
 - 👯 I’m looking to collaborate on anything which excites both of us.
