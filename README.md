@@ -12,10 +12,6 @@ Here are some ideas to get you started:
   <img align="left" alt="Sandeep's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=sandy13521.sandy13521)
-[![GitHub followers](https://img.shields.io/github/followers/sandy13521.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sandy13521?tab=followers)
-
-
 - 🔭 I’m currently working on a few android and nodejs projects.
 - 🌱 I’m currently learning nodejs.
 - 👯 I’m looking to collaborate on anything which excites both of us.
