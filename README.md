@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/nandavarmukund11">
   <img align="left" alt="Sandeep's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
+<br>
 
 - 🔭 I’m currently working on a few android and nodejs projects.
 - 🌱 I’m currently learning nodejs.
