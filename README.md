@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 </a>
 -->
 - 🔭 I’m currently working on a few android and nodejs projects.
-- 🌱 I’m currently learning nodejs.
+- 🌱 I’m currently learning NodeJs and Flutter.
 - 👯 I’m looking to collaborate on anything which excites both of us.
 - 📫 How to reach me: nandavarmukund1999@gmail.com 
 - 😄 Pronouns: I/he/him
