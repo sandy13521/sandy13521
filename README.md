@@ -12,8 +12,8 @@ Here are some ideas to get you started:
   <img align="left" alt="Sandeep's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 -->
-- 🔭 I’m currently working on a few android and nodejs projects.
-- 🌱 I’m currently learning NodeJs and Flutter.
+- 🔭 I’m currently working as Software Engineer 2 at Smarsh
+- 🌱 Worked in various technology - Python, Golang, Java, Android, Django, Datadog
 - 👯 I’m looking to collaborate on anything which excites both of us.
 - 📫 How to reach me: nandavarmukund1999@gmail.com 
 - 😄 Pronouns: I/he/him
